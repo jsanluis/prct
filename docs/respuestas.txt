@@ -1,0 +1,4 @@
+38. ¿Qué es GitHub?
+Es un repositorio con contro de versiones para trabajo colaborativo.
+43.Un repositorio remoto es un repositorio que no está en tu máquina (local)
+
